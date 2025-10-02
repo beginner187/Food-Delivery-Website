@@ -6,7 +6,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 // placing user order for fronted
 const placeOrder = async (req, res) => {
-  const fronted_url = "http://localhost:5173";
+  const fronted_url = "http://food-delivery-website-fronted-6gry.onrender.com/";
   try {
     const newOrder = new orderModel({
       userId: req.body.userId,
