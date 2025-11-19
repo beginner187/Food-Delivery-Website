@@ -61,3 +61,7 @@ Includes User Frontend, Admin Dashboard, and Node.js Backend with Stripe payment
 3. Backend -------------->> Node.js, Express.js, MongoDB, Mongoose, Multer, JWT
    
 4. Payments -------------->> Stripe Checkout
+
+<h2>Live url for user dashboard is : https://food-delivery-website-fronted-6gry.onrender.com/  </h2>
+
+<h2>Live url for admin panel is : https://food-delivery-website-admin-rokm.onrender.com/    </h2>
